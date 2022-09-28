@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @caparada
-- 👀 I’m interested in improving my bioinformatic skills
-- 🌱 I’m post-doctoral biotech research scientist
+- 👀 Senior wetlab/ Junior bioinformatician
 - 📫 Reach me out on casp.biomed@hotmail.com
 
 <!---
