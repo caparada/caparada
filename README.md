@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caparada
-- 👀 Ph.D Research Scientist (Biotechnology) | Bioinformatician | Currently, in my Data Science Journey
+- 👀 Ph.D Research Scientist (Biotechnology) | Bioinformatician | Currently, in my journey to Data Science!
 - 📫 Reach me on casp.biomed@hotmail.com
 
 <!---
